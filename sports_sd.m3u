@@ -1,61 +1,61 @@
 #EXTM3U x-tvg-url="https://tvpass.org/epg.xml"
-#EXTINF:-1 tvg-id="New_York_Mets___Miami_Marlins" tvg-name="New York Mets @ Miami Marlins" group-title="MLB", New York Mets @ Miami Marlins
+#EXTINF:-1 tvg-id="343fd8f4ae5920598e82c14529e672ab" tvg-name="New York Mets @ Miami Marlins" group-title="MLB", New York Mets @ Miami Marlins
 https://tvpass.org/live/mlb-07/sd
-#EXTINF:-1 tvg-id="Texas_Rangers___Cincinnati_Reds" tvg-name="Texas Rangers @ Cincinnati Reds" group-title="MLB", Texas Rangers @ Cincinnati Reds
+#EXTINF:-1 tvg-id="8782824a2198c7bb0d2d880b8be71d59" tvg-name="Texas Rangers @ Cincinnati Reds" group-title="MLB", Texas Rangers @ Cincinnati Reds
 https://tvpass.org/live/mlb-04/sd
-#EXTINF:-1 tvg-id="Washington_Capitals___Boston_Bruins" tvg-name="Washington Capitals @ Boston Bruins" group-title="NHL", Washington Capitals @ Boston Bruins
+#EXTINF:-1 tvg-id="97b4c24d2ddf2f5cfaf96d80e5ea6434" tvg-name="Washington Capitals @ Boston Bruins" group-title="NHL", Washington Capitals @ Boston Bruins
 https://tvpass.org/live/sportsnet-one/sd
-#EXTINF:-1 tvg-id="Buffalo_Sabres___Ottawa_Senators" tvg-name="Buffalo Sabres @ Ottawa Senators" group-title="NHL", Buffalo Sabres @ Ottawa Senators
+#EXTINF:-1 tvg-id="96b9767cab5e3479c794c10bbc5a44dd" tvg-name="Buffalo Sabres @ Ottawa Senators" group-title="NHL", Buffalo Sabres @ Ottawa Senators
 https://tvpass.org/live/tsn5/sd
-#EXTINF:-1 tvg-id="Florida_Panthers___Montr_al_Canadiens" tvg-name="Florida Panthers @ Montréal Canadiens" group-title="NHL", Florida Panthers @ Montréal Canadiens
+#EXTINF:-1 tvg-id="34c912249d9ed9831c6e2dc6e13626da" tvg-name="Florida Panthers @ Montréal Canadiens" group-title="NHL", Florida Panthers @ Montréal Canadiens
 https://tvpass.org/live/tsn2/sd
-#EXTINF:-1 tvg-id="Nashville_Predators___Columbus_Blue_Jackets" tvg-name="Nashville Predators @ Columbus Blue Jackets" group-title="NHL", Nashville Predators @ Columbus Blue Jackets
+#EXTINF:-1 tvg-id="42fcc35b7c0415669bb7468d2f9e7a56" tvg-name="Nashville Predators @ Columbus Blue Jackets" group-title="NHL", Nashville Predators @ Columbus Blue Jackets
 https://tvpass.org/live/fanduel-sports-network-ohio-cleveland/sd
-#EXTINF:-1 tvg-id="Arizona_Diamondbacks___New_York_Yankees" tvg-name="Arizona Diamondbacks @ New York Yankees" group-title="MLB", Arizona Diamondbacks @ New York Yankees
+#EXTINF:-1 tvg-id="34b4244077ac98f4cc0247162176b31a" tvg-name="Arizona Diamondbacks @ New York Yankees" group-title="MLB", Arizona Diamondbacks @ New York Yankees
 https://tvpass.org/live/mlb-15/sd
-#EXTINF:-1 tvg-id="Pittsburgh_Pirates___Tampa_Bay_Rays" tvg-name="Pittsburgh Pirates @ Tampa Bay Rays" group-title="MLB", Pittsburgh Pirates @ Tampa Bay Rays
+#EXTINF:-1 tvg-id="ec290ea58952225ceaa76254a5da42b3" tvg-name="Pittsburgh Pirates @ Tampa Bay Rays" group-title="MLB", Pittsburgh Pirates @ Tampa Bay Rays
 https://tvpass.org/live/mlb-11/sd
-#EXTINF:-1 tvg-id="Washington_Nationals___Toronto_Blue_Jays" tvg-name="Washington Nationals @ Toronto Blue Jays" group-title="MLB", Washington Nationals @ Toronto Blue Jays
+#EXTINF:-1 tvg-id="da950d84a838e2b0b7932bbf6036d8f7" tvg-name="Washington Nationals @ Toronto Blue Jays" group-title="MLB", Washington Nationals @ Toronto Blue Jays
 https://tvpass.org/live/mlb-12/sd
-#EXTINF:-1 tvg-id="Tampa_Bay_Lightning___New_York_Islanders" tvg-name="Tampa Bay Lightning @ New York Islanders" group-title="NHL", Tampa Bay Lightning @ New York Islanders
+#EXTINF:-1 tvg-id="6f61500bd438903cc47d8917e843f5b7" tvg-name="Tampa Bay Lightning @ New York Islanders" group-title="NHL", Tampa Bay Lightning @ New York Islanders
 https://tvpass.org/live/sportsnet-360/sd
-#EXTINF:-1 tvg-id="Phoenix_Suns___Milwaukee_Bucks" tvg-name="Phoenix Suns @ Milwaukee Bucks" group-title="NBA", Phoenix Suns @ Milwaukee Bucks
+#EXTINF:-1 tvg-id="85fed5cab5bb645a4d95f0e0e60c2853" tvg-name="Phoenix Suns @ Milwaukee Bucks" group-title="NBA", Phoenix Suns @ Milwaukee Bucks
 https://tvpass.org/live/TNTEast/sd
-#EXTINF:-1 tvg-id="Minnesota_Twins___Chicago_White_Sox" tvg-name="Minnesota Twins @ Chicago White Sox" group-title="MLB", Minnesota Twins @ Chicago White Sox
+#EXTINF:-1 tvg-id="ad4bfca5976ce8e1f66a2add8f2c4a1b" tvg-name="Minnesota Twins @ Chicago White Sox" group-title="MLB", Minnesota Twins @ Chicago White Sox
 https://tvpass.org/live/mlb-03/sd
-#EXTINF:-1 tvg-id="Kansas_City_Royals___Milwaukee_Brewers" tvg-name="Kansas City Royals @ Milwaukee Brewers" group-title="MLB", Kansas City Royals @ Milwaukee Brewers
+#EXTINF:-1 tvg-id="e35821c3bdc3bb5e0fb408ae71d5b6f1" tvg-name="Kansas City Royals @ Milwaukee Brewers" group-title="MLB", Kansas City Royals @ Milwaukee Brewers
 https://tvpass.org/live/mlb-16/sd
-#EXTINF:-1 tvg-id="Philadelphia_76ers___New_York_Knicks" tvg-name="Philadelphia 76ers @ New York Knicks" group-title="NBA", Philadelphia 76ers @ New York Knicks
+#EXTINF:-1 tvg-id="c046c1c43afe22ac06144cb5f6182df4" tvg-name="Philadelphia 76ers @ New York Knicks" group-title="NBA", Philadelphia 76ers @ New York Knicks
 https://tvpass.org/live/NBA09/sd
-#EXTINF:-1 tvg-id="Portland_Trail_Blazers___Atlanta_Hawks" tvg-name="Portland Trail Blazers @ Atlanta Hawks" group-title="NBA", Portland Trail Blazers @ Atlanta Hawks
+#EXTINF:-1 tvg-id="d0aafac0e82f6181d023ed270366a5ce" tvg-name="Portland Trail Blazers @ Atlanta Hawks" group-title="NBA", Portland Trail Blazers @ Atlanta Hawks
 https://tvpass.org/live/NBA27/sd
-#EXTINF:-1 tvg-id="Los_Angeles_Angels___St__Louis_Cardinals" tvg-name="Los Angeles Angels @ St. Louis Cardinals" group-title="MLB", Los Angeles Angels @ St. Louis Cardinals
+#EXTINF:-1 tvg-id="ab4994d4c3082ad6c2ce3a52b19630a8" tvg-name="Los Angeles Angels @ St. Louis Cardinals" group-title="MLB", Los Angeles Angels @ St. Louis Cardinals
 https://tvpass.org/live/mlb-08/sd
-#EXTINF:-1 tvg-id="Detroit_Red_Wings___St_Louis_Blues" tvg-name="Detroit Red Wings @ St Louis Blues" group-title="NHL", Detroit Red Wings @ St Louis Blues
+#EXTINF:-1 tvg-id="7c8dc7bb079d0df5a54a0afc346a6a20" tvg-name="Detroit Red Wings @ St Louis Blues" group-title="NHL", Detroit Red Wings @ St Louis Blues
 https://tvpass.org/live/NHL21/sd
-#EXTINF:-1 tvg-id="San_Francisco_Giants___Houston_Astros" tvg-name="San Francisco Giants @ Houston Astros" group-title="MLB", San Francisco Giants @ Houston Astros
+#EXTINF:-1 tvg-id="8b428ca189c00fa12b05d3c4f9c4a8f0" tvg-name="San Francisco Giants @ Houston Astros" group-title="MLB", San Francisco Giants @ Houston Astros
 https://tvpass.org/live/mlb-06/sd
-#EXTINF:-1 tvg-id="Orlando_Magic___San_Antonio_Spurs" tvg-name="Orlando Magic @ San Antonio Spurs" group-title="NBA", Orlando Magic @ San Antonio Spurs
+#EXTINF:-1 tvg-id="5ee6cd4116560ede97fb88c8c446654a" tvg-name="Orlando Magic @ San Antonio Spurs" group-title="NBA", Orlando Magic @ San Antonio Spurs
 https://tvpass.org/live/NBA10/sd
-#EXTINF:-1 tvg-id="Golden_State_Warriors___Memphis_Grizzlies" tvg-name="Golden State Warriors @ Memphis Grizzlies" group-title="NBA", Golden State Warriors @ Memphis Grizzlies
+#EXTINF:-1 tvg-id="3dbc3a0f6ae3ecdbad2e12b13b63d4ee" tvg-name="Golden State Warriors @ Memphis Grizzlies" group-title="NBA", Golden State Warriors @ Memphis Grizzlies
 https://tvpass.org/live/NBA11/sd
-#EXTINF:-1 tvg-id="Toronto_Raptors___Chicago_Bulls" tvg-name="Toronto Raptors @ Chicago Bulls" group-title="NBA", Toronto Raptors @ Chicago Bulls
+#EXTINF:-1 tvg-id="b8ea05a32fbfb97511f10d47bfc825c5" tvg-name="Toronto Raptors @ Chicago Bulls" group-title="NBA", Toronto Raptors @ Chicago Bulls
 https://tvpass.org/live/NBA15/sd
-#EXTINF:-1 tvg-id="Calgary_Flames___Utah_Hockey_Club" tvg-name="Calgary Flames @ Utah Hockey Club" group-title="NHL", Calgary Flames @ Utah Hockey Club
+#EXTINF:-1 tvg-id="fecc8edef8b38606ef3f069c0fbbfad3" tvg-name="Calgary Flames @ Utah Hockey Club" group-title="NHL", Calgary Flames @ Utah Hockey Club
 https://tvpass.org/live/sportsnet-west/sd
-#EXTINF:-1 tvg-id="Detroit_Tigers___Seattle_Mariners" tvg-name="Detroit Tigers @ Seattle Mariners" group-title="MLB", Detroit Tigers @ Seattle Mariners
+#EXTINF:-1 tvg-id="88c641c22ab080c8c123ba50d14d7abc" tvg-name="Detroit Tigers @ Seattle Mariners" group-title="MLB", Detroit Tigers @ Seattle Mariners
 https://tvpass.org/live/mlb-10/sd
-#EXTINF:-1 tvg-id="Cleveland_Guardians___San_Diego_Padres" tvg-name="Cleveland Guardians @ San Diego Padres" group-title="MLB", Cleveland Guardians @ San Diego Padres
+#EXTINF:-1 tvg-id="aa76b3dec07a11b29099530f01914711" tvg-name="Cleveland Guardians @ San Diego Padres" group-title="MLB", Cleveland Guardians @ San Diego Padres
 https://tvpass.org/live/mlb-02/sd
-#EXTINF:-1 tvg-id="San_Jose_Sharks___Anaheim_Ducks" tvg-name="San Jose Sharks @ Anaheim Ducks" group-title="NHL", San Jose Sharks @ Anaheim Ducks
+#EXTINF:-1 tvg-id="1dd57b4c64fc65dee0083b5768c872a3" tvg-name="San Jose Sharks @ Anaheim Ducks" group-title="NHL", San Jose Sharks @ Anaheim Ducks
 https://tvpass.org/live/NHL24/sd
-#EXTINF:-1 tvg-id="Edmonton_Oilers___Vegas_Golden_Knights" tvg-name="Edmonton Oilers @ Vegas Golden Knights" group-title="NHL", Edmonton Oilers @ Vegas Golden Knights
+#EXTINF:-1 tvg-id="62c2abc90943efb98112ee2c08426b82" tvg-name="Edmonton Oilers @ Vegas Golden Knights" group-title="NHL", Edmonton Oilers @ Vegas Golden Knights
 https://tvpass.org/live/sportsnet-one/sd
-#EXTINF:-1 tvg-id="Chicago_Cubs___Oakland_Athletics" tvg-name="Chicago Cubs @ Oakland Athletics" group-title="MLB", Chicago Cubs @ Oakland Athletics
+#EXTINF:-1 tvg-id="ce48424c66611f3bb0c1859defb4e79a" tvg-name="Chicago Cubs @ Oakland Athletics" group-title="MLB", Chicago Cubs @ Oakland Athletics
 https://tvpass.org/live/mlb-19/sd
-#EXTINF:-1 tvg-id="Atlanta_Braves___Los_Angeles_Dodgers" tvg-name="Atlanta Braves @ Los Angeles Dodgers" group-title="MLB", Atlanta Braves @ Los Angeles Dodgers
+#EXTINF:-1 tvg-id="0ad1a5e315e57e1eec5f4f95ce94589a" tvg-name="Atlanta Braves @ Los Angeles Dodgers" group-title="MLB", Atlanta Braves @ Los Angeles Dodgers
 https://tvpass.org/live/mlb-14/sd
-#EXTINF:-1 tvg-id="Minnesota_Timberwolves___Denver_Nuggets" tvg-name="Minnesota Timberwolves @ Denver Nuggets" group-title="NBA", Minnesota Timberwolves @ Denver Nuggets
+#EXTINF:-1 tvg-id="36b0488d4985c4f9024e97cb8988b4d1" tvg-name="Minnesota Timberwolves @ Denver Nuggets" group-title="NBA", Minnesota Timberwolves @ Denver Nuggets
 https://tvpass.org/live/TNTEast/sd
-#EXTINF:-1 tvg-id="Winnipeg_Jets___Los_Angeles_Kings" tvg-name="Winnipeg Jets @ Los Angeles Kings" group-title="NHL", Winnipeg Jets @ Los Angeles Kings
+#EXTINF:-1 tvg-id="12c9a876e83fdb404acf2d9876329259" tvg-name="Winnipeg Jets @ Los Angeles Kings" group-title="NHL", Winnipeg Jets @ Los Angeles Kings
 https://tvpass.org/live/tsn3/sd
