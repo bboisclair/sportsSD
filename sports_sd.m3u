@@ -1,43 +1,69 @@
 #EXTM3U x-tvg-url="https://tvpass.org/epg.xml"
-#EXTINF:-1 tvg-id="MLB-ChicagoWhiteSox.us" tvg-name="Chicago White Sox @ Cleveland Guardians (04/10 1:10 PM ET)" group-title="MLB"
+#EXTINF:-1 tvg-id="MLB-KansasCityRoyals.us" tvg-name="Kansas City Royals @ Cleveland Guardians (04/11 6:10 PM ET)" group-title="MLB"
 https://tvpass.org/live/mlb-30/sd
-#EXTINF:-1 tvg-id="MLB-LosAngelesAngels.us" tvg-name="Los Angeles Angels @ Tampa Bay Rays (04/10 1:10 PM ET)" group-title="MLB"
+#EXTINF:-1 tvg-id="MLB-PittsburghPirates.us" tvg-name="Pittsburgh Pirates @ Cincinnati Reds (04/11 6:40 PM ET)" group-title="MLB"
+https://tvpass.org/live/mlb-04/sd
+#EXTINF:-1 tvg-id="NHL-PittsburghPenguins.us" tvg-name="Pittsburgh Penguins @ New Jersey Devils (04/11 7:00 PM ET)" group-title="NHL"
+https://tvpass.org/live/NHLNetwork/sd
+#EXTINF:-1 tvg-id="NHL-OttawaSenators.us" tvg-name="Montréal Canadiens @ Ottawa Senators (04/11 7:00 PM ET)" group-title="NHL"
+https://tvpass.org/live/NHL07/sd
+#EXTINF:-1 tvg-id="NHL-DetroitRedWings.us" tvg-name="Detroit Red Wings @ Tampa Bay Lightning (04/11 7:00 PM ET)" group-title="NHL"
+https://tvpass.org/live/NHL20/sd
+#EXTINF:-1 tvg-id="MLB-SanFranciscoGiants.us" tvg-name="San Francisco Giants @ New York Yankees (04/11 7:05 PM ET)" group-title="MLB"
+https://tvpass.org/live/mlb-15/sd
+#EXTINF:-1 tvg-id="MLB-TorontoBlueJays.us" tvg-name="Toronto Blue Jays @ Baltimore Orioles (04/11 7:05 PM ET)" group-title="MLB"
+https://tvpass.org/live/mlb-17/sd
+#EXTINF:-1 tvg-id="MLB-AtlantaBraves.us" tvg-name="Atlanta Braves @ Tampa Bay Rays (04/11 7:05 PM ET)" group-title="MLB"
 https://tvpass.org/live/mlb-11/sd
-#EXTINF:-1 tvg-id="MLB-MinnesotaTwins.us" tvg-name="Minnesota Twins @ Kansas City Royals (04/10 2:10 PM ET)" group-title="MLB"
-https://tvpass.org/live/mlb-05/sd
-#EXTINF:-1 tvg-id="MLB-MilwaukeeBrewers.us" tvg-name="Milwaukee Brewers @ Colorado Rockies (04/10 3:11 PM ET)" group-title="MLB"
-https://tvpass.org/live/mlb-25/sd
-#EXTINF:-1 tvg-id="MLB-TorontoBlueJays.us" tvg-name="Toronto Blue Jays @ Boston Red Sox (04/10 4:10 PM ET)" group-title="MLB"
-https://tvpass.org/live/mlb-22/sd
-#EXTINF:-1 tvg-id="NHL-DetroitRedWings.us" tvg-name="Detroit Red Wings @ Florida Panthers (04/10 7:00 PM ET)" group-title="NHL"
-https://tvpass.org/live/NHL26/sd
-#EXTINF:-1 tvg-id="NHL-BuffaloSabres.us" tvg-name="Buffalo Sabres @ Columbus Blue Jackets (04/10 7:00 PM ET)" group-title="NHL"
-https://tvpass.org/live/NHL27/sd
-#EXTINF:-1 tvg-id="NHL-ChicagoBlackhawks.us" tvg-name="Chicago Blackhawks @ Boston Bruins (04/10 7:00 PM ET)" group-title="NHL"
-https://tvpass.org/live/NHL05/sd
-#EXTINF:-1 tvg-id="NBA-NewYorkKnicks.us" tvg-name="New York Knicks @ Detroit Pistons (04/10 7:10 PM ET)" group-title="NBA"
+#EXTINF:-1 tvg-id="NBA-MilwaukeeBucks.us" tvg-name="Milwaukee Bucks @ Detroit Pistons (04/11 7:10 PM ET)" group-title="NBA"
 https://tvpass.org/live/NBA07/sd
-#EXTINF:-1 tvg-id="NBA-ClevelandCavaliers.us" tvg-name="Cleveland Cavaliers @ Indiana Pacers (04/10 7:10 PM ET)" group-title="NBA"
-https://tvpass.org/live/TNTEast/sd
-#EXTINF:-1 tvg-id="MLB-PhiladelphiaPhillies.us" tvg-name="Philadelphia Phillies @ Atlanta Braves (04/10 7:15 PM ET)" group-title="MLB"
-https://tvpass.org/live/mlb-28/sd
-#EXTINF:-1 tvg-id="NHL-CarolinaHurricanes.us" tvg-name="Carolina Hurricanes @ Washington Capitals (04/10 7:30 PM ET)" group-title="NHL"
-https://tvpass.org/live/NHL09/sd
-#EXTINF:-1 tvg-id="NHL-NewYorkRangers.us" tvg-name="New York Rangers @ New York Islanders (04/10 7:30 PM ET)" group-title="NHL"
-https://tvpass.org/live/NHL30/sd
-#EXTINF:-1 tvg-id="NBA-AtlantaHawks.us" tvg-name="Atlanta Hawks @ Brooklyn Nets (04/10 7:40 PM ET)" group-title="NBA"
-https://tvpass.org/live/NBA20/sd
-#EXTINF:-1 tvg-id="NHL-WinnipegJets.us" tvg-name="Winnipeg Jets @ Dallas Stars (04/10 8:00 PM ET)" group-title="NHL"
-https://tvpass.org/live/NHL11/sd
-#EXTINF:-1 tvg-id="NBA-NewOrleansPelicans.us" tvg-name="New Orleans Pelicans @ Milwaukee Bucks (04/10 8:10 PM ET)" group-title="NBA"
-https://tvpass.org/live/NBA21/sd
-#EXTINF:-1 tvg-id="NHL-VancouverCanucks.us" tvg-name="Vancouver Canucks @ Colorado Avalanche (04/10 9:00 PM ET)" group-title="NHL"
-https://tvpass.org/live/NHL13/sd
-#EXTINF:-1 tvg-id="NHL-NashvillePredators.us" tvg-name="Nashville Predators @ Utah Hockey Club (04/10 9:00 PM ET)" group-title="NHL"
-https://tvpass.org/live/NHL33/sd
-#EXTINF:-1 tvg-id="NBA-MinnesotaTimberwolves.us" tvg-name="Minnesota Timberwolves @ Memphis Grizzlies (04/10 9:30 PM ET)" group-title="NBA"
-https://tvpass.org/live/TNTEast/sd
-#EXTINF:-1 tvg-id="NHL-AnaheimDucks.us" tvg-name="Anaheim Ducks @ Los Angeles Kings (04/10 10:00 PM ET)" group-title="NHL"
-https://tvpass.org/live/NHL25/sd
-#EXTINF:-1 tvg-id="NHL-SeattleKraken.us" tvg-name="Seattle Kraken @ Vegas Golden Knights (04/10 10:00 PM ET)" group-title="NHL"
-https://tvpass.org/live/NHL04/sd
+#EXTINF:-1 tvg-id="MLB-WashingtonNationals.us" tvg-name="Washington Nationals @ Miami Marlins (04/11 7:10 PM ET)" group-title="MLB"
+https://tvpass.org/live/mlb-07/sd
+#EXTINF:-1 tvg-id="NBA-AtlantaHawks.us" tvg-name="Atlanta Hawks @ Philadelphia 76ers (04/11 7:10 PM ET)" group-title="NBA"
+https://tvpass.org/live/NBA02/sd
+#EXTINF:-1 tvg-id="NBA-OrlandoMagic.us" tvg-name="Orlando Magic @ Indiana Pacers (04/11 7:10 PM ET)" group-title="NBA"
+https://tvpass.org/live/NBA19/sd
+#EXTINF:-1 tvg-id="NBA-CharlotteHornets.us" tvg-name="Charlotte Hornets @ Boston Celtics (04/11 7:40 PM ET)" group-title="NBA"
+https://tvpass.org/live/NBA14/sd
+#EXTINF:-1 tvg-id="MLB-BostonRedSox.us" tvg-name="Boston Red Sox @ Chicago White Sox (04/11 7:40 PM ET)" group-title="MLB"
+https://tvpass.org/live/mlb-03/sd
+#EXTINF:-1 tvg-id="NBA-ClevelandCavaliers.us" tvg-name="Cleveland Cavaliers @ New York Knicks (04/11 7:40 PM ET)" group-title="NBA"
+https://tvpass.org/live/NBA09/sd
+#EXTINF:-1 tvg-id="NBA-WashingtonWizards.us" tvg-name="Washington Wizards @ Chicago Bulls (04/11 8:10 PM ET)" group-title="NBA"
+https://tvpass.org/live/NBA15/sd
+#EXTINF:-1 tvg-id="MLB-LosAngelesAngels.us" tvg-name="Los Angeles Angels @ Houston Astros (04/11 8:10 PM ET)" group-title="MLB"
+https://tvpass.org/live/mlb-06/sd
+#EXTINF:-1 tvg-id="MLB-DetroitTigers.us" tvg-name="Detroit Tigers @ Minnesota Twins (04/11 8:10 PM ET)" group-title="MLB"
+https://tvpass.org/live/mlb-20/sd
+#EXTINF:-1 tvg-id="NBA-MiamiHeat.us" tvg-name="Miami Heat @ New Orleans Pelicans (04/11 8:10 PM ET)" group-title="NBA"
+https://tvpass.org/live/NBA01/sd
+#EXTINF:-1 tvg-id="MLB-PhiladelphiaPhillies.us" tvg-name="Philadelphia Phillies @ St. Louis Cardinals (04/11 8:15 PM ET)" group-title="MLB"
+https://tvpass.org/live/mlb-08/sd
+#EXTINF:-1 tvg-id="NBA-TorontoRaptors.us" tvg-name="Toronto Raptors @ Dallas Mavericks (04/11 8:40 PM ET)" group-title="NBA"
+https://tvpass.org/live/NBA03/sd
+#EXTINF:-1 tvg-id="NBA-BrooklynNets.us" tvg-name="Brooklyn Nets @ Minnesota Timberwolves (04/11 9:10 PM ET)" group-title="NBA"
+https://tvpass.org/live/NBA12/sd
+#EXTINF:-1 tvg-id="NBA-MemphisGrizzlies.us" tvg-name="Memphis Grizzlies @ Denver Nuggets (04/11 9:10 PM ET)" group-title="NBA"
+https://tvpass.org/live/NBA23/sd
+#EXTINF:-1 tvg-id="NHL-SanJoseSharks.us" tvg-name="San Jose Sharks @ Edmonton Oilers (04/11 9:30 PM ET)" group-title="NHL"
+https://tvpass.org/live/NHL16/sd
+#EXTINF:-1 tvg-id="MLB-ColoradoRockies.us" tvg-name="Colorado Rockies @ San Diego Padres (04/11 9:40 PM ET)" group-title="MLB"
+https://tvpass.org/live/mlb-02/sd
+#EXTINF:-1 tvg-id="MLB-TexasRangers.us" tvg-name="Texas Rangers @ Seattle Mariners (04/11 9:40 PM ET)" group-title="MLB"
+https://tvpass.org/live/mlb-10/sd
+#EXTINF:-1 tvg-id="NBA-OklahomaCityThunder.us" tvg-name="Oklahoma City Thunder @ Utah Jazz (04/11 9:40 PM ET)" group-title="NBA"
+https://tvpass.org/live/NBA04/sd
+#EXTINF:-1 tvg-id="NHL-MinnesotaWild.us" tvg-name="Minnesota Wild @ Calgary Flames (04/11 10:00 PM ET)" group-title="NHL"
+https://tvpass.org/live/NHL15/sd
+#EXTINF:-1 tvg-id="MLB-NewYorkMets.us" tvg-name="New York Mets @ Oakland Athletics (04/11 10:05 PM ET)" group-title="MLB"
+https://tvpass.org/live/mlb-19/sd
+#EXTINF:-1 tvg-id="MLB-ChicagoCubs.us" tvg-name="Chicago Cubs @ Los Angeles Dodgers (04/11 10:10 PM ET)" group-title="MLB"
+https://tvpass.org/live/mlb-14/sd
+#EXTINF:-1 tvg-id="NBA-SanAntonioSpurs.us" tvg-name="San Antonio Spurs @ Phoenix Suns (04/11 10:10 PM ET)" group-title="NBA"
+https://tvpass.org/live/NBA13/sd
+#EXTINF:-1 tvg-id="NBA-SacramentoKings.us" tvg-name="Los Angeles Clippers @ Sacramento Kings (04/11 10:10 PM ET)" group-title="NBA"
+https://tvpass.org/live/NBA17/sd
+#EXTINF:-1 tvg-id="NBA-GoldenStateWarriors.us" tvg-name="Golden State Warriors @ Portland Trail Blazers (04/11 10:10 PM ET)" group-title="NBA"
+https://tvpass.org/live/NBA27/sd
+#EXTINF:-1 tvg-id="NBA-HoustonRockets.us" tvg-name="Houston Rockets @ Los Angeles Lakers (04/11 10:40 PM ET)" group-title="NBA"
+https://tvpass.org/live/NBATV/sd
