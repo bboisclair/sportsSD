@@ -1,0 +1,53 @@
+#EXTM3U x-tvg-url="https://tvpass.org/epg.xml"
+#EXTINF:-1 tvg-id="NHL-NewYorkIslanders.us" tvg-name="New York Islanders @ Philadelphia Flyers (04/12 12:30 PM ET)" group-title="NHL"
+https://tvpass.org/live/NHL31/sd
+#EXTINF:-1 tvg-id="NHL-WashingtonCapitals.us" tvg-name="Washington Capitals @ Columbus Blue Jackets (04/12 12:30 PM ET)" group-title="NHL"
+https://tvpass.org/live/NHL27/sd
+#EXTINF:-1 tvg-id="MLB-DetroitTigers.us" tvg-name="Detroit Tigers @ Minnesota Twins (04/12 2:10 PM ET)" group-title="MLB"
+https://tvpass.org/live/mlb-20/sd
+#EXTINF:-1 tvg-id="MLB-PhiladelphiaPhillies.us" tvg-name="Philadelphia Phillies @ St. Louis Cardinals (04/12 2:15 PM ET)" group-title="MLB"
+https://tvpass.org/live/mlb-08/sd
+#EXTINF:-1 tvg-id="NHL-NewYorkRangers.us" tvg-name="New York Rangers @ Carolina Hurricanes (04/12 3:00 PM ET)" group-title="NHL"
+https://tvpass.org/live/NHL01/sd
+#EXTINF:-1 tvg-id="MLB-SanFranciscoGiants.us" tvg-name="San Francisco Giants @ New York Yankees (04/12 3:05 PM ET)" group-title="MLB"
+https://tvpass.org/live/mlb-15/sd
+#EXTINF:-1 tvg-id="NHL-ColoradoAvalanche.us" tvg-name="Colorado Avalanche @ Los Angeles Kings (04/12 4:00 PM ET)" group-title="NHL"
+https://tvpass.org/live/NHL25/sd
+#EXTINF:-1 tvg-id="MLB-NewYorkMets.us" tvg-name="New York Mets @ Oakland Athletics (04/12 4:05 PM ET)" group-title="MLB"
+https://tvpass.org/live/mlb-19/sd
+#EXTINF:-1 tvg-id="MLB-TorontoBlueJays.us" tvg-name="Toronto Blue Jays @ Baltimore Orioles (04/12 4:05 PM ET)" group-title="MLB"
+https://tvpass.org/live/mlb-17/sd
+#EXTINF:-1 tvg-id="MLB-WashingtonNationals.us" tvg-name="Washington Nationals @ Miami Marlins (04/12 4:10 PM ET)" group-title="MLB"
+https://tvpass.org/live/mlb-07/sd
+#EXTINF:-1 tvg-id="MLB-BostonRedSox.us" tvg-name="Boston Red Sox @ Chicago White Sox (04/12 4:10 PM ET)" group-title="MLB"
+https://tvpass.org/live/mlb-03/sd
+#EXTINF:-1 tvg-id="MLB-AtlantaBraves.us" tvg-name="Atlanta Braves @ Tampa Bay Rays (04/12 4:10 PM ET)" group-title="MLB"
+https://tvpass.org/live/mlb-11/sd
+#EXTINF:-1 tvg-id="NHL-BuffaloSabres.us" tvg-name="Buffalo Sabres @ Florida Panthers (04/12 6:00 PM ET)" group-title="NHL"
+https://tvpass.org/live/NHL26/sd
+#EXTINF:-1 tvg-id="MLB-KansasCityRoyals.us" tvg-name="Kansas City Royals @ Cleveland Guardians (04/12 6:10 PM ET)" group-title="MLB"
+https://tvpass.org/live/mlb-30/sd
+#EXTINF:-1 tvg-id="MLB-PittsburghPirates.us" tvg-name="Pittsburgh Pirates @ Cincinnati Reds (04/12 6:41 PM ET)" group-title="MLB"
+https://tvpass.org/live/mlb-04/sd
+#EXTINF:-1 tvg-id="NHL-TorontoMapleLeafs.us" tvg-name="Montréal Canadiens @ Toronto Maple Leafs (04/12 7:00 PM ET)" group-title="NHL"
+https://tvpass.org/live/NHL23/sd
+#EXTINF:-1 tvg-id="NHL-WinnipegJets.us" tvg-name="Winnipeg Jets @ Chicago Blackhawks (04/12 7:00 PM ET)" group-title="NHL"
+https://tvpass.org/live/NHL02/sd
+#EXTINF:-1 tvg-id="MLB-LosAngelesAngels.us" tvg-name="Los Angeles Angels @ Houston Astros (04/12 7:10 PM ET)" group-title="MLB"
+https://tvpass.org/live/mlb-06/sd
+#EXTINF:-1 tvg-id="NHL-UtahHockeyClub.us" tvg-name="Utah Hockey Club @ Dallas Stars (04/12 8:00 PM ET)" group-title="NHL"
+https://tvpass.org/live/NHL11/sd
+#EXTINF:-1 tvg-id="MLB-MilwaukeeBrewers.us" tvg-name="Milwaukee Brewers @ Arizona Diamondbacks (04/12 8:10 PM ET)" group-title="MLB"
+https://tvpass.org/live/mlb-09/sd
+#EXTINF:-1 tvg-id="MLB-ColoradoRockies.us" tvg-name="Colorado Rockies @ San Diego Padres (04/12 8:40 PM ET)" group-title="MLB"
+https://tvpass.org/live/mlb-02/sd
+#EXTINF:-1 tvg-id="MLB-ChicagoCubs.us" tvg-name="Chicago Cubs @ Los Angeles Dodgers (04/12 9:10 PM ET)" group-title="MLB"
+https://tvpass.org/live/mlb-14/sd
+#EXTINF:-1 tvg-id="MLB-TexasRangers.us" tvg-name="Texas Rangers @ Seattle Mariners (04/12 9:40 PM ET)" group-title="MLB"
+https://tvpass.org/live/mlb-10/sd
+#EXTINF:-1 tvg-id="NHL-MinnesotaWild.us" tvg-name="Minnesota Wild @ Vancouver Canucks (04/12 10:00 PM ET)" group-title="NHL"
+https://tvpass.org/live/NHL03/sd
+#EXTINF:-1 tvg-id="NHL-NashvillePredators.us" tvg-name="Nashville Predators @ Vegas Golden Knights (04/12 10:00 PM ET)" group-title="NHL"
+https://tvpass.org/live/NHL04/sd
+#EXTINF:-1 tvg-id="NHL-SeattleKraken.us" tvg-name="St Louis Blues @ Seattle Kraken (04/12 10:00 PM ET)" group-title="NHL"
+https://tvpass.org/live/NHL29/sd
