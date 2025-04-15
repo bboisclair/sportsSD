@@ -1,0 +1,33 @@
+#EXTM3U x-tvg-url="https://tvpass.org/epg.xml"
+#EXTINF:-1 tvg-id="MLB-WashingtonNationals.us" tvg-name="Washington Nationals @ Pittsburgh Pirates (04/14 6:41 PM ET)" group-title="MLB"
+https://tvpass.org/live/mlb-26/sd
+#EXTINF:-1 tvg-id="MLB-SanFranciscoGiants.us" tvg-name="San Francisco Giants @ Philadelphia Phillies (04/14 6:46 PM ET)" group-title="MLB"
+https://tvpass.org/live/mlb-18/sd
+#EXTINF:-1 tvg-id="NHL-ChicagoBlackhawks.us" tvg-name="Chicago Blackhawks @ Montréal Canadiens (04/14 7:00 PM ET)" group-title="NHL"
+https://tvpass.org/live/NHL28/sd
+#EXTINF:-1 tvg-id="NHL-DallasStars.us" tvg-name="Dallas Stars @ Detroit Red Wings (04/14 7:00 PM ET)" group-title="NHL"
+https://tvpass.org/live/NHLNetwork/sd
+#EXTINF:-1 tvg-id="NHL-NewYorkRangers.us" tvg-name="New York Rangers @ Florida Panthers (04/14 7:00 PM ET)" group-title="NHL"
+https://tvpass.org/live/NHL26/sd
+#EXTINF:-1 tvg-id="MLB-BostonRedSox.us" tvg-name="Boston Red Sox @ Tampa Bay Rays (04/14 7:06 PM ET)" group-title="MLB"
+https://tvpass.org/live/mlb-11/sd
+#EXTINF:-1 tvg-id="MLB-KansasCityRoyals.us" tvg-name="Kansas City Royals @ New York Yankees (04/14 7:06 PM ET)" group-title="MLB"
+https://tvpass.org/live/mlb-15/sd
+#EXTINF:-1 tvg-id="MLB-AtlantaBraves.us" tvg-name="Atlanta Braves @ Toronto Blue Jays (04/14 7:08 PM ET)" group-title="MLB"
+https://tvpass.org/live/mlb-12/sd
+#EXTINF:-1 tvg-id="MLB-DetroitTigers.us" tvg-name="Detroit Tigers @ Milwaukee Brewers (04/14 7:41 PM ET)" group-title="MLB"
+https://tvpass.org/live/mlb-16/sd
+#EXTINF:-1 tvg-id="MLB-NewYorkMets.us" tvg-name="New York Mets @ Minnesota Twins (04/14 7:41 PM ET)" group-title="MLB"
+https://tvpass.org/live/mlb-20/sd
+#EXTINF:-1 tvg-id="MLB-HoustonAstros.us" tvg-name="Houston Astros @ St. Louis Cardinals (04/14 7:46 PM ET)" group-title="MLB"
+https://tvpass.org/live/mlb-08/sd
+#EXTINF:-1 tvg-id="NHL-UtahHockeyClub.us" tvg-name="Utah Hockey Club @ Nashville Predators (04/14 8:00 PM ET)" group-title="NHL"
+https://tvpass.org/live/NHL22/sd
+#EXTINF:-1 tvg-id="MLB-ChicagoCubs.us" tvg-name="Chicago Cubs @ San Diego Padres (04/14 9:41 PM ET)" group-title="MLB"
+https://tvpass.org/live/mlb-02/sd
+#EXTINF:-1 tvg-id="NHL-LosAngelesKings.us" tvg-name="Los Angeles Kings @ Edmonton Oilers (04/14 10:00 PM ET)" group-title="NHL"
+https://tvpass.org/live/NHLNetwork/sd
+#EXTINF:-1 tvg-id="NHL-SanJoseSharks.us" tvg-name="San Jose Sharks @ Vancouver Canucks (04/14 10:00 PM ET)" group-title="NHL"
+https://tvpass.org/live/NHL03/sd
+#EXTINF:-1 tvg-id="MLB-ColoradoRockies.us" tvg-name="Colorado Rockies @ Los Angeles Dodgers (04/14 10:10 PM ET)" group-title="MLB"
+https://tvpass.org/live/mlb-14/sd
