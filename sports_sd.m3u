@@ -1,47 +1,35 @@
 #EXTM3U x-tvg-url="https://tvpass.org/epg.xml"
-#EXTINF:-1 tvg-id="MLB-AtlantaBraves.us" tvg-name="Atlanta Braves @ Toronto Blue Jays (04/16 1:07 PM ET)" group-title="MLB"
-https://tvpass.org/live/mlb-12/sd
-#EXTINF:-1 tvg-id="MLB-DetroitTigers.us" tvg-name="Detroit Tigers @ Milwaukee Brewers (04/16 1:10 PM ET)" group-title="MLB"
-https://tvpass.org/live/mlb-16/sd
-#EXTINF:-1 tvg-id="MLB-NewYorkMets.us" tvg-name="New York Mets @ Minnesota Twins (04/16 1:10 PM ET)" group-title="MLB"
-https://tvpass.org/live/mlb-20/sd
-#EXTINF:-1 tvg-id="MLB-HoustonAstros.us" tvg-name="Houston Astros @ St. Louis Cardinals (04/16 1:15 PM ET)" group-title="MLB"
-https://tvpass.org/live/mlb-08/sd
-#EXTINF:-1 tvg-id="MLB-ChicagoCubs.us" tvg-name="Chicago Cubs @ San Diego Padres (04/16 4:10 PM ET)" group-title="MLB"
-https://tvpass.org/live/mlb-02/sd
-#EXTINF:-1 tvg-id="MLB-ClevelandGuardians.us" tvg-name="Cleveland Guardians @ Baltimore Orioles (04/16 6:35 PM ET)" group-title="MLB"
-https://tvpass.org/live/mlb-17/sd
-#EXTINF:-1 tvg-id="MLB-ArizonaDiamondbacks.us" tvg-name="Arizona Diamondbacks @ Miami Marlins (04/16 6:40 PM ET)" group-title="MLB"
+#EXTINF:-1 tvg-id="MLB-ArizonaDiamondbacks.us" tvg-name="Arizona Diamondbacks @ Miami Marlins (04/17 12:10 PM ET)" group-title="MLB"
 https://tvpass.org/live/mlb-07/sd
-#EXTINF:-1 tvg-id="MLB-SeattleMariners.us" tvg-name="Seattle Mariners @ Cincinnati Reds (04/16 6:40 PM ET)" group-title="MLB"
-https://tvpass.org/live/mlb-04/sd
-#EXTINF:-1 tvg-id="MLB-WashingtonNationals.us" tvg-name="Washington Nationals @ Pittsburgh Pirates (04/16 6:40 PM ET)" group-title="MLB"
+#EXTINF:-1 tvg-id="MLB-WashingtonNationals.us" tvg-name="Washington Nationals @ Pittsburgh Pirates (04/17 12:35 PM ET)" group-title="MLB"
 https://tvpass.org/live/mlb-26/sd
-#EXTINF:-1 tvg-id="MLB-SanFranciscoGiants.us" tvg-name="San Francisco Giants @ Philadelphia Phillies (04/16 6:45 PM ET)" group-title="MLB"
-https://tvpass.org/live/mlb-18/sd
-#EXTINF:-1 tvg-id="MLB-BostonRedSox.us" tvg-name="Boston Red Sox @ Tampa Bay Rays (04/16 7:05 PM ET)" group-title="MLB"
-https://tvpass.org/live/mlb-11/sd
-#EXTINF:-1 tvg-id="MLB-KansasCityRoyals.us" tvg-name="Kansas City Royals @ New York Yankees (04/16 7:05 PM ET)" group-title="MLB"
-https://tvpass.org/live/mlb-15/sd
-#EXTINF:-1 tvg-id="NHL-CarolinaHurricanes.us" tvg-name="Carolina Hurricanes @ Montréal Canadiens (04/16 7:10 PM ET)" group-title="NHL"
-https://tvpass.org/live/NHL01/sd
-#EXTINF:-1 tvg-id="NHL-AnaheimDucks.us" tvg-name="Anaheim Ducks @ Winnipeg Jets (04/16 7:10 PM ET)" group-title="NHL"
-https://tvpass.org/live/NHL02/sd
-#EXTINF:-1 tvg-id="NBA-MiamiHeat.us" tvg-name="Miami Heat @ Chicago Bulls (04/16 7:30 PM ET)" group-title="NBA"
-https://tvpass.org/live/ESPN/sd
-#EXTINF:-1 tvg-id="MLB-ChicagoWhiteSox.us" tvg-name="Oakland Athletics @ Chicago White Sox (04/16 7:40 PM ET)" group-title="MLB"
+#EXTINF:-1 tvg-id="MLB-SeattleMariners.us" tvg-name="Seattle Mariners @ Cincinnati Reds (04/17 12:40 PM ET)" group-title="MLB"
+https://tvpass.org/live/mlb-04/sd
+#EXTINF:-1 tvg-id="MLB-ChicagoWhiteSox.us" tvg-name="Oakland Athletics @ Chicago White Sox (04/17 2:10 PM ET)" group-title="MLB"
 https://tvpass.org/live/mlb-03/sd
-#EXTINF:-1 tvg-id="NHL-DetroitRedWings.us" tvg-name="Detroit Red Wings @ New Jersey Devils (04/16 7:40 PM ET)" group-title="NHL"
-https://tvpass.org/live/TNTEast/sd
-#EXTINF:-1 tvg-id="MLB-LosAngelesAngels.us" tvg-name="Los Angeles Angels @ Texas Rangers (04/16 8:05 PM ET)" group-title="MLB"
+#EXTINF:-1 tvg-id="MLB-SanFranciscoGiants.us" tvg-name="San Francisco Giants @ Philadelphia Phillies (04/17 4:05 PM ET)" group-title="MLB"
+https://tvpass.org/live/mlb-18/sd
+#EXTINF:-1 tvg-id="MLB-ClevelandGuardians.us" tvg-name="Cleveland Guardians @ Baltimore Orioles (04/17 6:35 PM ET)" group-title="MLB"
+https://tvpass.org/live/mlb-17/sd
+#EXTINF:-1 tvg-id="MLB-KansasCityRoyals.us" tvg-name="Kansas City Royals @ Detroit Tigers (04/17 6:40 PM ET)" group-title="MLB"
+https://tvpass.org/live/mlb-21/sd
+#EXTINF:-1 tvg-id="NHL-WashingtonCapitals.us" tvg-name="Washington Capitals @ Pittsburgh Penguins (04/17 7:00 PM ET)" group-title="NHL"
+https://tvpass.org/live/NHL18/sd
+#EXTINF:-1 tvg-id="NHL-PhiladelphiaFlyers.us" tvg-name="Philadelphia Flyers @ Buffalo Sabres (04/17 7:00 PM ET)" group-title="NHL"
+https://tvpass.org/live/NHL06/sd
+#EXTINF:-1 tvg-id="NHL-CarolinaHurricanes.us" tvg-name="Carolina Hurricanes @ Ottawa Senators (04/17 7:00 PM ET)" group-title="NHL"
+https://tvpass.org/live/NHL07/sd
+#EXTINF:-1 tvg-id="NHL-NewYorkIslanders.us" tvg-name="New York Islanders @ Columbus Blue Jackets (04/17 7:00 PM ET)" group-title="NHL"
+https://tvpass.org/live/NHL27/sd
+#EXTINF:-1 tvg-id="NHL-DetroitRedWings.us" tvg-name="Detroit Red Wings @ Toronto Maple Leafs (04/17 7:00 PM ET)" group-title="NHL"
+https://tvpass.org/live/NHL23/sd
+#EXTINF:-1 tvg-id="NHL-TampaBayLightning.us" tvg-name="Tampa Bay Lightning @ New York Rangers (04/17 7:00 PM ET)" group-title="NHL"
+https://tvpass.org/live/NHL10/sd
+#EXTINF:-1 tvg-id="MLB-NewYorkYankees.us" tvg-name="New York Yankees @ Tampa Bay Rays (04/17 7:05 PM ET)" group-title="MLB"
+https://tvpass.org/live/mlb-11/sd
+#EXTINF:-1 tvg-id="MLB-NewYorkMets.us" tvg-name="St. Louis Cardinals @ New York Mets (04/17 7:10 PM ET)" group-title="MLB"
+https://tvpass.org/live/mlb-24/sd
+#EXTINF:-1 tvg-id="MLB-LosAngelesAngels.us" tvg-name="Los Angeles Angels @ Texas Rangers (04/17 8:05 PM ET)" group-title="MLB"
 https://tvpass.org/live/mlb-13/sd
-#EXTINF:-1 tvg-id="NHL-DallasStars.us" tvg-name="Dallas Stars @ Nashville Predators (04/16 8:10 PM ET)" group-title="NHL"
-https://tvpass.org/live/NHL22/sd
-#EXTINF:-1 tvg-id="NBA-DallasMavericks.us" tvg-name="Dallas Mavericks @ Sacramento Kings (04/16 10:00 PM ET)" group-title="NBA"
-https://tvpass.org/live/ESPN/sd
-#EXTINF:-1 tvg-id="MLB-ColoradoRockies.us" tvg-name="Colorado Rockies @ Los Angeles Dodgers (04/16 10:10 PM ET)" group-title="MLB"
-https://tvpass.org/live/mlb-14/sd
-#EXTINF:-1 tvg-id="NHL-VegasGoldenKnights.us" tvg-name="Vegas Golden Knights @ Vancouver Canucks (04/16 10:10 PM ET)" group-title="NHL"
-https://tvpass.org/live/TNTEast/sd
-#EXTINF:-1 tvg-id="NHL-EdmontonOilers.us" tvg-name="Edmonton Oilers @ San Jose Sharks (04/16 10:40 PM ET)" group-title="NHL"
-https://tvpass.org/live/NHL16/sd
+#EXTINF:-1 tvg-id="NHL-CalgaryFlames.us" tvg-name="Calgary Flames @ Los Angeles Kings (04/17 9:30 PM ET)" group-title="NHL"
+https://tvpass.org/live/NHL25/sd
