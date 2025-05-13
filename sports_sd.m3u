@@ -1,31 +1,37 @@
 #EXTM3U x-tvg-url="https://tvpass.org/epg.xml"
-#EXTINF:-1 tvg-id="MLB-MilwaukeeBrewers.us" tvg-name="Milwaukee Brewers @ Cleveland Guardians (05/12 6:10 PM ET)" group-title="MLB"
+#EXTINF:-1 tvg-id="MLB-MilwaukeeBrewers.us" tvg-name="Milwaukee Brewers @ Cleveland Guardians (05/13 6:10 PM ET)" group-title="MLB"
 https://tvpass.org/live/mlb-30/sd
-#EXTINF:-1 tvg-id="MLB-BostonRedSox.us" tvg-name="Boston Red Sox @ Detroit Tigers (05/12 6:40 PM ET)" group-title="MLB"
+#EXTINF:-1 tvg-id="MLB-MinnesotaTwins.us" tvg-name="Minnesota Twins @ Baltimore Orioles (05/13 6:35 PM ET)" group-title="MLB"
+https://tvpass.org/live/mlb-17/sd
+#EXTINF:-1 tvg-id="MLB-BostonRedSox.us" tvg-name="Boston Red Sox @ Detroit Tigers (05/13 6:40 PM ET)" group-title="MLB"
 https://tvpass.org/live/mlb-21/sd
-#EXTINF:-1 tvg-id="MLB-PhiladelphiaPhillies.us" tvg-name="St. Louis Cardinals @ Philadelphia Phillies (05/12 6:45 PM ET)" group-title="MLB"
+#EXTINF:-1 tvg-id="MLB-ChicagoWhiteSox.us" tvg-name="Chicago White Sox @ Cincinnati Reds (05/13 6:40 PM ET)" group-title="MLB"
+https://tvpass.org/live/mlb-04/sd
+#EXTINF:-1 tvg-id="MLB-PhiladelphiaPhillies.us" tvg-name="St. Louis Cardinals @ Philadelphia Phillies (05/13 6:45 PM ET)" group-title="MLB"
 https://tvpass.org/live/mlb-18/sd
-#EXTINF:-1 tvg-id="MLB-PittsburghPirates.us" tvg-name="Pittsburgh Pirates @ New York Mets (05/12 7:10 PM ET)" group-title="MLB"
+#EXTINF:-1 tvg-id="NBA-IndianaPacers.us" tvg-name="Indiana Pacers @ Cleveland Cavaliers (05/13 7:00 PM ET)" group-title="NBA"
+https://tvpass.org/live/TNTEast/sd
+#EXTINF:-1 tvg-id="MLB-TampaBayRays.us" tvg-name="Tampa Bay Rays @ Toronto Blue Jays (05/13 7:07 PM ET)" group-title="MLB"
+https://tvpass.org/live/mlb-12/sd
+#EXTINF:-1 tvg-id="MLB-PittsburghPirates.us" tvg-name="Pittsburgh Pirates @ New York Mets (05/13 7:10 PM ET)" group-title="MLB"
 https://tvpass.org/live/mlb-24/sd
-#EXTINF:-1 tvg-id="NHL-WashingtonCapitals.us" tvg-name="Washington Capitals @ Carolina Hurricanes (05/12 7:10 PM ET)" group-title="NHL"
-https://tvpass.org/live/TNTEast/sd
-#EXTINF:-1 tvg-id="MLB-WashingtonNationals.us" tvg-name="Washington Nationals @ Atlanta Braves (05/12 7:15 PM ET)" group-title="MLB"
+#EXTINF:-1 tvg-id="MLB-WashingtonNationals.us" tvg-name="Washington Nationals @ Atlanta Braves (05/13 7:15 PM ET)" group-title="MLB"
 https://tvpass.org/live/mlb-28/sd
-#EXTINF:-1 tvg-id="NBA-BostonCeltics.us" tvg-name="Boston Celtics @ New York Knicks (05/12 7:35 PM ET)" group-title="NBA"
-https://tvpass.org/live/ESPN/sd
-#EXTINF:-1 tvg-id="MLB-MiamiMarlins.us" tvg-name="Miami Marlins @ Chicago Cubs (05/12 7:40 PM ET)" group-title="MLB"
+#EXTINF:-1 tvg-id="MLB-MiamiMarlins.us" tvg-name="Miami Marlins @ Chicago Cubs (05/13 7:40 PM ET)" group-title="MLB"
 https://tvpass.org/live/mlb-23/sd
-#EXTINF:-1 tvg-id="MLB-ColoradoRockies.us" tvg-name="Colorado Rockies @ Texas Rangers (05/12 8:05 PM ET)" group-title="MLB"
+#EXTINF:-1 tvg-id="MLB-ColoradoRockies.us" tvg-name="Colorado Rockies @ Texas Rangers (05/13 8:05 PM ET)" group-title="MLB"
 https://tvpass.org/live/mlb-13/sd
-#EXTINF:-1 tvg-id="MLB-KansasCityRoyals.us" tvg-name="Kansas City Royals @ Houston Astros (05/12 8:10 PM ET)" group-title="MLB"
-https://tvpass.org/live/mlb-06/sd
-#EXTINF:-1 tvg-id="MLB-LosAngelesAngels.us" tvg-name="Los Angeles Angels @ San Diego Padres (05/12 9:40 PM ET)" group-title="MLB"
-https://tvpass.org/live/mlb-02/sd
-#EXTINF:-1 tvg-id="NHL-VegasGoldenKnights.us" tvg-name="Vegas Golden Knights @ Edmonton Oilers (05/12 9:40 PM ET)" group-title="NHL"
-https://tvpass.org/live/TNTEast/sd
-#EXTINF:-1 tvg-id="MLB-NewYorkYankees.us" tvg-name="New York Yankees @ Seattle Mariners (05/12 9:41 PM ET)" group-title="MLB"
-https://tvpass.org/live/mlb-10/sd
-#EXTINF:-1 tvg-id="MLB-ArizonaDiamondbacks.us" tvg-name="Arizona Diamondbacks @ San Francisco Giants (05/12 9:45 PM ET)" group-title="MLB"
-https://tvpass.org/live/mlb-27/sd
-#EXTINF:-1 tvg-id="NBA-MinnesotaTimberwolves.us" tvg-name="Minnesota Timberwolves @ Golden State Warriors (05/12 10:05 PM ET)" group-title="NBA"
+#EXTINF:-1 tvg-id="NHL-WinnipegJets.us" tvg-name="Winnipeg Jets @ Dallas Stars (05/13 8:10 PM ET)" group-title="NHL"
 https://tvpass.org/live/ESPN/sd
+#EXTINF:-1 tvg-id="MLB-KansasCityRoyals.us" tvg-name="Kansas City Royals @ Houston Astros (05/13 8:10 PM ET)" group-title="MLB"
+https://tvpass.org/live/mlb-06/sd
+#EXTINF:-1 tvg-id="NBA-DenverNuggets.us" tvg-name="Denver Nuggets @ Oklahoma City Thunder (05/13 9:35 PM ET)" group-title="NBA"
+https://tvpass.org/live/TNTEast/sd
+#EXTINF:-1 tvg-id="MLB-LosAngelesAngels.us" tvg-name="Los Angeles Angels @ San Diego Padres (05/13 9:40 PM ET)" group-title="MLB"
+https://tvpass.org/live/mlb-02/sd
+#EXTINF:-1 tvg-id="MLB-NewYorkYankees.us" tvg-name="New York Yankees @ Seattle Mariners (05/13 9:40 PM ET)" group-title="MLB"
+https://tvpass.org/live/mlb-10/sd
+#EXTINF:-1 tvg-id="MLB-ArizonaDiamondbacks.us" tvg-name="Arizona Diamondbacks @ San Francisco Giants (05/13 9:45 PM ET)" group-title="MLB"
+https://tvpass.org/live/mlb-27/sd
+#EXTINF:-1 tvg-id="MLB-LosAngelesDodgers.us" tvg-name="Oakland Athletics @ Los Angeles Dodgers (05/13 10:10 PM ET)" group-title="MLB"
+https://tvpass.org/live/mlb-14/sd
